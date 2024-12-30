@@ -57,3 +57,4 @@ supply, determining the equilibrium price and
 quantity. 
 This state ensures there is no tendency for price to 
 change further.
+  
